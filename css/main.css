@@ -1,0 +1,9 @@
+body {
+    background-color: blue;
+}
+
+@media (min-width: 320px) and (max-width: 568px) { //media quary for iphone
+    body {
+    background-color: purple;
+}
+}
